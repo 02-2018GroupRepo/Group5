@@ -10,7 +10,7 @@ public class Main {
 
         Resume calderResume = new Resume("Digital Crafts Buckhead Graduate 2017, BBA Mercer University", "Web Developer Contract Roles ~1 Year", "Working Experience with Javascript, React, Python, Node, SQL", "Calder Marshall");
 
-        Resume amberResume = new Resume("Bachelors of Science in Mathematics", " Mathematics Teacher", "C++, Matlab, Solving complicated Math problems", "Amber Marshall");
+        Resume amberResume = new Resume("Bachelors of Science in Mathematics", " Mathematics Teacher", "C++, Matlab, Solving complicated Math problems, Communication skills", "Amber Marshall");
 
         Resume JuniorResume = new Resume("Masters in Cyber Security", "Systems support, networking and administration", "Good people skills, attention to details", "Junior");
 
