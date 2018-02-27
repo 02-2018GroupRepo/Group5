@@ -12,7 +12,7 @@ public class Main {
 
         Resume amberResume = new Resume("Bachelors of Science in Mathematics", " Mathematics Teacher", "C++, Matlab, Solving complicated Math problems", "Amber Marshall");
 
-        Resume ngonidzasheResume = new Resume("Masters in Cyber Security", "Systems support, networking and administration", "Good people skills, attention to details", "Junior");
+        Resume JuniorResume = new Resume("Masters in Cyber Security", "Systems support, networking and administration", "Good people skills, attention to details", "Junior");
 
         Resume juhoResume = new Resume("Bachelor in Computer Science", "Associate Drill Sergeant (ROKA)", "Java, HTML, CSS, C++, JavaScript", "Juho Lee");
 
