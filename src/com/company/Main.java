@@ -16,7 +16,7 @@ public class Main {
 
         Resume juhoResume = new Resume("Bachelor in Computer Science", "Associate Drill Sergeant (ROKA)", "Java, HTML, CSS, C++, JavaScript", "Juho Lee");
 
-        Resume andrewResume = new Resume("Bachelor of Science in Information Technology", "Information Systems Analyst", "SQL, JavaScript, C#, HTML, CSS, PHP", "Andrew Johnson");
+        Resume andrewResume = new Resume("Bachelor of Science in Information Technology Intern", "Information Systems Analyst", "SQL, JavaScript, C#, HTML, CSS, PHP", "Andrew Johnson");
 
         //Store all resumes in collection
         ArrayList<Resume> resumeList = new ArrayList<Resume>();
